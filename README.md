@@ -1,0 +1,14 @@
+# missi_phone_cn-user 13 TP1A.220624.014 V14.0.6.0.TNOCNXM release-keys
+- manufacturer: xiaomi
+- platform: commonmt6886
+- codename: zircon
+- flavor: missi_phone_cn-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: V14.0.6.0.TNOCNXM
+- tags: release-keys
+- fingerprint: Redmi/zircon/zircon:13/TP1A.220624.014/V14.0.6.0.TNOCNXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi_phone_cn-user-13-TP1A.220624.014-V14.0.6.0.TNOCNXM-release-keys
+- repo: redmi_zircon_dump
